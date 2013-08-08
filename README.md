@@ -1,9 +1,9 @@
 xchatAutoAwayPlugin
 ===================
 
-Plugin for Xchat2, that sets user status 'away' after certain time of inactivity (based on mouse and keyboard activity), and undo it when user comes back. Linux and Mac only. Uses LibXss.
+Plugin for Xchat2, that sets user status 'away' after certain time of inactivity (based on mouse and keyboard activity), and undo it when user comes back. Good example how to use LibXss.
 
-### INSTALLATION ###
+### INSTALLATION (Linux and Mac only)###
 Move autoAway.so file into ~/.xchat2 (hidden in your home folder)
 
 ### USAGE###
